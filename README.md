@@ -1,6 +1,6 @@
 # domo-aggregato
 
-packageDescription
+Count or aggregate arrays by string or number buckets
 
 ## Installation
 
@@ -75,5 +75,7 @@ aggregateByNumberBuckets(numArray, buckets, {
 ```
 
 ## Documentation
+
+Better docs are coming soon.
 
 See [DOCS](./docs/modules.md)
