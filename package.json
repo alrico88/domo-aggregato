@@ -23,6 +23,10 @@
     "this",
     "tags"
   ],
+  "files": [
+    "src",
+    "dist"
+  ],
   "author": "Alberto Rico",
   "license": "MIT",
   "devDependencies": {
